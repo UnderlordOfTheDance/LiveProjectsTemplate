@@ -590,3 +590,28 @@
   width:136px;
   word-wrap:break-word;
 }
+#u42_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:256px;
+  height:144px;
+}
+#u42 {
+  border-width:0px;
+  position:absolute;
+  left:116px;
+  top:289px;
+  width:256px;
+  height:144px;
+}
+#u42_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
